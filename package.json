@@ -29,6 +29,8 @@
   },
   "dependencies": {
     "@opencode-ai/plugin": "^1.0.162",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2",
     "supermemory": "^4.0.0"
   },
   "devDependencies": {
